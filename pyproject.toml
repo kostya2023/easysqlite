@@ -16,7 +16,3 @@ classifiers = [
    "License :: OSI Approved :: MIT License",
    "Operating System :: OS Independent",
 ]
-
-[pypi]
-username = ['__token__']
-password = ['pypi-AgEIcHlwaS5vcmcCJGFmZTJiZGMyLWM4NzgtNDVhMC04NTM0LTg4N2RhYzFkNTM2OAACKlszLCJmYjkxNzBiYi0yMDEyLTQ5OGEtOTYyZC1jNzNlMjdmNjgxYzUiXQAABiAOSIzl_wdRpM6bf2ww2IAQLCG1hJH9kofAjLwSZzX7vQ']

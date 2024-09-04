@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "EasySqlite-kos000113"
+version = "1.0"
+authors = [
+ { name="__token__", email="kostya_gorshkov_06@vk.com" },
+]
+description = "None"
+readme = "README.md"
+requires-python = ">=3.10.0"
+classifiers = [
+   "Programming Language :: Python :: 3",
+   "License :: OSI Approved :: MIT License",
+   "Operating System :: OS Independent",
+]
+
+[pypi]
+username = ['__token__']
+password = ['pypi-AgEIcHlwaS5vcmcCJGFmZTJiZGMyLWM4NzgtNDVhMC04NTM0LTg4N2RhYzFkNTM2OAACKlszLCJmYjkxNzBiYi0yMDEyLTQ5OGEtOTYyZC1jNzNlMjdmNjgxYzUiXQAABiAOSIzl_wdRpM6bf2ww2IAQLCG1hJH9kofAjLwSZzX7vQ']
